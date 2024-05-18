@@ -4,7 +4,10 @@
 # Ignoriere das Verzeichnis "node_modules"
 node_modules/
 
-# Ignoriere die Datei "config.json"
+# Ignoriere die Datei "package.json"
 package.json
-
 package-lock.json
+
+#main ignore
+index.js
+meta.json
