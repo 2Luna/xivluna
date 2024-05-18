@@ -1,0 +1,10 @@
+# Ignoriere Dateien, die mit ".log" enden
+*.log
+
+# Ignoriere das Verzeichnis "node_modules"
+node_modules/
+
+# Ignoriere die Datei "config.json"
+package.json
+
+package-lock.json
