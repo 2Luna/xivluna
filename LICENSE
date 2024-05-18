@@ -5,7 +5,7 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
 
 DIE SOFTWARE WIRD "WIE BESEHEN" OHNE JEGLICHE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN. IN KEINEM FALL HAFTEN DIE AUTOREN ODER COPYRIGHT-INHABER FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNGEN, OB IN EINER VERTRAGS- ODER DELIKTSHANDLUNG, DIE AUS, IN VERBINDUNG MIT DER SOFTWARE ODER DER VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ENTSTEHEN.
 
-xivluna Version Urheberrecht (c) 2024 2Luna (& PC321 Ltd.)
+xivluna Version: Urheberrecht (c) 2024 2Luna (& PC321 Ltd.)
 
 Die folgende Software unterliegt dem Urheberrechtsschutz. Jegliche Vervielfältigung oder Verbreitung, einschließlich der Bearbeitung, ist ohne ausdrückliche Genehmigung untersagt, es sei denn, Ottermandias hat dies ausdrücklich genehmigt.
 
@@ -16,6 +16,8 @@ Die Software ist frei zur Nutzung, jedoch ist jegliche andere Nutzung ohne ausdr
 Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, die Erlaubnis erteilt, uneingeschränkt mit der Software umzugehen, einschließlich und ohne Einschränkung der Rechte zur Verwendung, Vervielfältigung, Änderung, Fusion, Veröffentlichung, Verbreitung, Unterverlizenzierung und/oder zum Verkauf von Kopien der Software, sowie Personen, denen die Software zur Verfügung gestellt wird, diese zu verwenden, unter der Bedingung, dass der obige Urheberrechtshinweis und dieser Erlaubnishinweis in allen Kopien oder wesentlichen Teilen der Software enthalten sind.
 
 Die Software wird "wie besehen" ohne jegliche ausdrückliche oder implizierte Garantie bereitgestellt, einschließlich, aber nicht beschränkt auf die Garantie der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten. In keinem Fall haften die Autoren oder Copyright-Inhaber für Ansprüche, Schäden oder andere Haftungen, ob in einer Vertrags- oder Deliktshandlung, die aus, in Verbindung mit der Software oder der Verwendung oder anderen Geschäften mit der Software entstehen.
+
+---
 
 English:
 Copyright (c) 2023 Ottermandias
@@ -51,3 +53,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
 
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+---
+
+Original version: [SeaOfStars by Ottermandias](https://github.com/Ottermandias/SeaOfStars)
