@@ -1,0 +1,19 @@
+[
+    {
+      "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+      "plugins": ["Penumbra"]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
+      "plugins": ["Glamourer"]
+    },
+    {
+      "repo": "https://files.maresynchronos.com/release/plogonmaster.json",
+      "plugins": ["MareSynchronos"]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
+      "plugins": ["CustomizePlus"]
+    }
+  ]
+  
